@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/about-me/static/css/main.72e47601.css",
+    "main.js": "/about-me/static/js/main.fc63faee.js",
+    "static/media/Instagram_icon.png.webp": "/about-me/static/media/Instagram_icon.png.e291349581f33a4f4b3e.webp",
+    "static/media/books.jpg": "/about-me/static/media/books.28ad883291b0b86b2344.jpg",
+    "static/media/walk-in-park-1.jpg": "/about-me/static/media/walk-in-park-1.976d94bfc32bcf8c6033.jpg",
+    "static/media/cooking.jpg": "/about-me/static/media/cooking.7787d90566e8958b183a.jpg",
+    "static/media/flowers.jpg": "/about-me/static/media/flowers.a1f795df1fc3a930f077.jpg",
+    "static/media/FAJvxhzXsAA6lcZ.jpg": "/about-me/static/media/FAJvxhzXsAA6lcZ.107e71602fb75fb47cb9.jpg",
+    "static/media/tennis.jfif": "/about-me/static/media/tennis.64b363cbb016c24bdb46.jfif",
+    "static/media/jpg": "/about-me/static/media/4f597c1767a6522755f23dfe109dac40.5c804f8c3d573e2a32d4.jpg",
+    "static/media/Telegram_2019_Logo.svg.webp": "/about-me/static/media/Telegram_2019_Logo.svg.2e17179f58f479e6f6eb.webp",
+    "static/media/Gmail_icon_(2020).svg.webp": "/about-me/static/media/Gmail_icon_(2020).svg.ba1d14cb463a3b7106df.webp",
+    "index.html": "/about-me/index.html",
+    "main.72e47601.css.map": "/about-me/static/css/main.72e47601.css.map",
+    "main.fc63faee.js.map": "/about-me/static/js/main.fc63faee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e47601.css",
+    "static/js/main.fc63faee.js"
+  ]
+}
